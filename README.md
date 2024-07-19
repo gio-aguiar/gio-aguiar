@@ -1,8 +1,7 @@
 ## Oi! Eu sou a Giovanna👋
 
 - 🔭 Atualmente estou cursando Desenvolvimento de Sistemas na ETEC Horácio Augusto da Silveira
-- 🌱 Também estou finalizando o bootcamp Oracle Next Education em parceria com a ALURA.
-- ⚡ Minha escolha no bootcamp foi Back-End
+- 🌱 Alumni ONE Oracle.
 
 <div>
 <a href="https://github.com/iasminaraujoc">
