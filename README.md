@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/Hx1krkt/521a5ee5-57de-485f-a40f-1b7933d4ec73-Photoroom-removebg-preview.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Tenho 24 anos, sou graduada em Design e atualmente estou no último semestre de Desenvolvimento de Sistemas.
+  Tenho 24 anos, sou graduada em Design e atualmente estou no último semestre de Desenvolvimento de Sistemas. Também sou Alumni One Oracle, do programa Oracle x ALura.
 </p>
 
 - 🔭 Atualmente estou desenvolvendo meu TCC, que será um aplicativo de orientação para ajudar pessoas a apoiar crianças em situação de violência.
