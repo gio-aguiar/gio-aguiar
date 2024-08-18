@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente estou desenvolvendo meu TCC, que será um aplicativo de orientação para ajudar pessoas a apoiar crianças em situação de violência.
 - 🌱 Estou aprendendo Python e me aprofundando na área de qualidade de software.
-- 💬 Tenho vontade de usar a tecnologia para ajudar causas animais e de sustentabilidade.
+- 💬 Tenho vontade de usar a tecnologia para ajudar causas que envolvem proteção animal e sustentabilidade.
 
 <br>
 
