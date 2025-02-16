@@ -25,7 +25,7 @@
 
 <br><br>
 
-## 🚀 Hard-Skills
+## 🚀 
 [![My Skills](https://skillicons.dev/icons?i=python,java,mysql,html,css)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
