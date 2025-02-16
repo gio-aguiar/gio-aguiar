@@ -5,12 +5,14 @@
 <img src="https://i.ibb.co/Hx1krkt/521a5ee5-57de-485f-a40f-1b7933d4ec73-Photoroom-removebg-preview.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Tenho 24 anos, sou graduada em Design e atualmente estou no último semestre de Desenvolvimento de Sistemas. Também sou Alumni One Oracle, do programa Oracle x ALura.
+  Estudante de tecnologia com foco na área de dados.
+  
 </p>
 
-- 🔭 Atualmente estou desenvolvendo meu TCC, que será um aplicativo de orientação para ajudar pessoas a apoiar crianças em situação de violência.
-- 🌱 Estou aprendendo Python e me aprofundando na área de qualidade de software.
-- 💬 Tenho vontade de usar a tecnologia para ajudar causas que envolvem proteção animal e sustentabilidade.
+- 💬 Atualmente estou cursando graduação em Análise e Desenvolvimento de Sistemas.
+- 🔭 Me formei no técnico em Desenvolvimento de sistemas pela CPS.
+- 🌱 Sou alumni Oracle, do programa Oracle x Alura, onde desenvolvi bons conhecimentos em Java e SQL.
+- 💬 Meu tcc foi um aplicativo de apoio a saúde mental, buscando tornar mais acessível o direcionamento e acolhimento para pessoas que estão passando por momentos difíceis.
 
 <br>
 
