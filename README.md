@@ -5,14 +5,15 @@
 <img src="https://i.ibb.co/Hx1krkt/521a5ee5-57de-485f-a40f-1b7933d4ec73-Photoroom-removebg-preview.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Estudante de tecnologia com foco na área de dados.
+  Explorando o universo dos dados na área tech.
   
 </p>
 
-- 💬 Atualmente estou cursando graduação em Análise e Desenvolvimento de Sistemas.
+- 💬 Cursando graduação em Análise e Desenvolvimento de Sistemas.
 - 🔭 Me formei no técnico em Desenvolvimento de sistemas pela CPS.
+- 💡 Focando meus estudos em Python e SQL para aprofundar minhas habilidades na área de dados.
 - 🌱 Sou alumni Oracle, do programa Oracle x Alura, onde desenvolvi bons conhecimentos em Java e SQL.
-- 💬 Meu tcc foi um aplicativo de apoio a saúde mental, buscando tornar mais acessível o direcionamento e acolhimento para pessoas que estão passando por momentos difíceis.
+- 📌 Meu tcc foi um aplicativo de apoio a saúde mental, buscando tornar mais acessível o direcionamento e acolhimento para pessoas que estão passando por momentos difíceis.
 
 <br>
 
